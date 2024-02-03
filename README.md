@@ -5,6 +5,8 @@ ScriptEditor-Unit-Save-Validation
 
 要求：剧本编辑器2.8.1及以上版本
 
+***
+
 所有修改后的版本分发必须遵守开源许可证：
 * 您可以免费修改，私用。
 
@@ -12,8 +14,8 @@ ScriptEditor-Unit-Save-Validation
 
 * 我们不承担任何责任。
 
-* 唯一的限制是，任何修改即未修改的副本必须附有MIT授权协议，否则将承担法律责任。
+* 唯一的限制是，任何修改即未修改的副本必须附有MIT许可证协议，否则将承担法律责任。
 
-由 TASA-Ed工作室 提供
+由 **TASA-Ed工作室** 提供
 
-Provided by TASA-Ed Studio
+Provided by **TASA-Ed** Studio
