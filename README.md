@@ -17,4 +17,6 @@
 ## 其他
 所有修改后的版本分发必须遵守MIT开源许可证
 
+此源码模板面向中国大陆。
+
 要求：[剧本编辑器](https://1drv.ms/u/c/568ae44e1937060b/EdDVH9S7JbZLtj0hPoay4rkB2NtzvwDnn12fuGUS0WHA0w?e=Zn1qbJ)2.8.1f及以上版本
